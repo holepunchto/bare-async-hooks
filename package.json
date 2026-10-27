@@ -1,6 +1,6 @@
 {
   "name": "bare-async-hooks",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "`async_hooks` shim for Bare",
   "exports": {
     "./package": "./package.json",
